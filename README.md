@@ -1,4 +1,3 @@
-````markdown
 <p align="center">
   <a href="https://pptr.dev/">
     <img src="https://user-images.githubusercontent.com/10379601/29446482-04f7036a-841f-11e7-9872-91d1fc2ea683.png" alt="Puppeteer logo" width="103" height="150">
@@ -148,4 +147,3 @@ This script is intended for educational, personal documentation, and internal QA
 ## License
 
 This project is licensed under the MIT License.
-```
