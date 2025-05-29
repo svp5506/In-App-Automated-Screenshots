@@ -100,7 +100,7 @@ For your safety, you are prompted to enter your username and password directly i
 ## Screenshot Samples
 
 **Homepage**
-![ScreenShot]<img alt="Homepage Screenshot" src="./Screenshots/Homepage.png" width="400"\>
+<img alt="Homepage Screenshot" src="![./Screenshots/Homepage.png](https://github.com/svp5506/In-App-Automated-Screenshots/blob/main/Screenshots/Homepage.png)" width="400"\>
 
 
 ## Troubleshooting
