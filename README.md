@@ -24,7 +24,6 @@ This project uses Puppeteer to automate logging into Spectrum.net and capturing 
 - [Important Security Note](#important-security-note)
 - [Troubleshooting](#troubleshooting)
 - [Disclaimer](#disclaimer)
-- [License](#license)
 
 ## Features
 
