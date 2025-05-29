@@ -23,7 +23,6 @@ This project uses Puppeteer to automate logging into Spectrum.net and capturing 
 - [Screenshot Samples](#screenshot-samples)
 - [Important Security Note](#important-security-note)
 - [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
 - [Disclaimer](#disclaimer)
 - [License](#license)
 
@@ -115,16 +114,6 @@ For your safety, you are prompted to enter your username and password directly i
       - Ensure you have a compatible version of Node.js.
       - Chromium might not have downloaded correctly during `npm install`. Try removing `node_modules` and `package-lock.json` and running `npm install` again.
 
-## Contributing
-
-Contributions are welcome\! If you have suggestions for improvements or bug fixes, please:
-
-1.  Fork the repository.
-2.  Create a new branch (`git checkout -b feature/your-feature-name`).
-3.  Make your changes.
-4.  Commit your changes (`git commit -am 'Add some feature'`).
-5.  Push to the branch (`git push origin feature/your-feature-name`).
-6.  Create a new Pull Request.
 
 ## Disclaimer
 
