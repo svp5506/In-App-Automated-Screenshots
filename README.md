@@ -99,19 +99,9 @@ For your safety, you are prompted to enter your username and password directly i
 
 ## Screenshot Samples
 
-*(Ensure these paths are correct relative to your README file. For example, if `Screenshots` is in the root of your project, these paths should work when viewed on GitHub.)*
-
 **Homepage**
-\<img alt="Homepage Screenshot" src="./Screenshots/Homepage.png" width="400"\>
+<img alt="Homepage Screenshot" src="./Screenshots/Homepage.png" width="400"\>
 
-**Billing**
-\<img alt="Billing Page Screenshot" src="./Screenshots/Billing/BillingPage.png" width="400"\>
-\<img alt="Billing Payment Methods Screenshot" src="./Screenshots/Billing/BillingPagePaymentMethods.png" width="400"\>
-
-**Services - Internet**
-\<img alt="Services Internet Page Screenshot" src="./Screenshots/Services/ServicesPageInternet.png" width="400"\>
-
-*(Add more samples as needed)*
 
 ## Troubleshooting
 
