@@ -149,4 +149,3 @@ This script is intended for educational, personal documentation, and internal QA
 
 This project is licensed under the MIT License.
 ```
-```
