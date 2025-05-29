@@ -122,7 +122,3 @@ This script is intended for educational, personal documentation, and internal QA
   - **Do not share your credentials with others.**
   - Automating login to third-party services may be against their Terms of Service. Use this script responsibly and at your own risk.
   - The maintainers of this project are not responsible for any misuse of this script or for any actions taken against your Spectrum account as a result of its use.
-
-## License
-
-This project is licensed under the MIT License.
