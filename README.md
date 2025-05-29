@@ -49,7 +49,7 @@ This project uses Puppeteer to automate logging into Spectrum.net and capturing 
 
 1.  **Clone the repository (if you haven't already):**
     ```sh
-    git clone <your-repository-url>
+    git clone <https://github.com/svp5506/In-App-Automated-Screenshots>
     cd In-App-Automated-Screenshots
     ```
 
@@ -100,7 +100,7 @@ For your safety, you are prompted to enter your username and password directly i
 ## Screenshot Samples
 
 **Homepage**
-<img alt="Homepage Screenshot" src="./Screenshots/Homepage.png" width="400"\>
+![ScreenShot]<img alt="Homepage Screenshot" src="./Screenshots/Homepage.png" width="400"\>
 
 
 ## Troubleshooting
